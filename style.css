@@ -155,7 +155,7 @@ textarea {
 .page1 > h3 {
     position: absolute;
 
-    top: 140px;
+    top: 160px;
     left: 100px;
 
     margin: 0;
@@ -316,8 +316,8 @@ textarea {
     width: 700px;
     height: 650px;
 
-    left: 760px;
-    top: 100px;
+    left: 850px;
+    top: 155px;
 
     overflow: visible;
 }
@@ -1704,7 +1704,7 @@ textarea {
     }
 
     #picbox {
-        left: 58%;
+        left: 99%;
     }
 
     .social-icon {
