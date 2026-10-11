@@ -312,13 +312,10 @@ textarea {
 
 #picbox {
     position: absolute;
-
     width: 700px;
     height: 650px;
-
     left: 850px;
     top: 155px;
-
     overflow: visible;
 }
 
